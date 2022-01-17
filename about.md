@@ -6,9 +6,9 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-He's a Student <a href="https://kongu.ac.in/" target="_blank" rel="noopener">@Kongu Engineering college.</a> Who opted computer science and design UG course, living in the Union Territory of Puducherry. 
+I am a student <a href="https://kongu.ac.in/" target="_blank" rel="noopener">@Kongu Engineering college.</a> who opted for computer science and design (BE.CSD), living in the Union Territory of Puducherry. 
 <hr>
-<code> Enchanted Towards: </code>
+<code> Engaged Towards: </code>
 Web App Pentesting, Network Pentesting.......(updating soon)
 
 
