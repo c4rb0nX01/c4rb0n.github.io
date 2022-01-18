@@ -1,8 +1,8 @@
 ---
-title: About
+title: About & Other Resources
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I am a student <a href="https://kongu.ac.in/" target="_blank" rel="noopener">@Kongu Engineering college.</a> who opted for computer science and design (BE.CSD), living in the Union Territory of Puducherry.
 comments: false
 ---
 
