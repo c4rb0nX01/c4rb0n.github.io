@@ -1,6 +1,6 @@
 ---
-title: (Demo) Python Notes from Intro to Machine Learning
-date: 2021-11-07 10:00:00 +07:00
+title: (Team 9) Design Thinking
+date: 2022-05-16 10:00:00 +07:00
 tags: [python, machine-learning]
 description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
 ---
