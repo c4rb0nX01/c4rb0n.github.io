@@ -15,5 +15,3 @@ To the friends and mentors who have introduced me to new opportunities, offered 
 I hope to carry the wisdom gained from these experiences throughout my career and to use it to make a meaningful impact in the world. My sincerest gratitude goes out to everyone who has contributed to my journey thus far. May your kindness and generosity be rewarded tenfold.
 
 <hr>
-
-Hopefully the knowledge that I got from them can be useful, and become a charity for them.
