@@ -16,7 +16,7 @@ Web Application Penetration Testing, Network Penetration Testing, IoT Security, 
 
 **Contact Information :**
 
-- Email: href="mailto:c4rb0n.exe@gmail.com">c4rb0n.exe@gmail.com</a>. Check out my <a 
+- Email: <a href="mailto:c4rb0n.exe@gmail.com">c4rb0n.exe@gmail.com </a>
 - Twitter: <a href="https://twitter.com/c4rb0nX01" target="_blank" rel="noopener">c4rb0nX01</a>
 - GitHub: <a href="https://github.com/c4rb0nX1/" target="_blank" rel="noopener">c4rb0nX1</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/niranchan-d-a900b2225/" target="_blank" rel="noopener">Niranchan D</a>
