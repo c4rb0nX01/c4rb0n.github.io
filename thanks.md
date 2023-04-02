@@ -9,6 +9,7 @@ To those who have shared their knowledge and expertise with me, I extend my hear
 To the friends and mentors who have introduced me to new opportunities, offered advice during challenging times, and motivated me to strive for excellence, I am forever thankful. Your influence has shaped my aspirations and fueled my passion for technology.
 
 I hope to carry the wisdom gained from these experiences throughout my career and to use it to make a meaningful impact in the world. My sincerest gratitude goes out to everyone who has contributed to my journey thus far. May your kindness and generosity be rewarded tenfold.
+
 comments: false
 ---
 
