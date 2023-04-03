@@ -13,12 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: c4rb0nX01 # author name
   bio: >- # tell to the world
-  <hr> 
-  <br>Welcome!<br/>  
-  I'm Niranchan, also known as c4rb0n, a cybersecurity enthusiast and a student at Kongu Engineering College. 
-  I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in cybersecurity. 
-  Check out my Github profile where I develop and collaborate on projects related to my interests. 
-  Join me on my journey to explore and understand the intricacies of cybersecurity.
+    <br>Welcome!<br/> I'm Niranchan, also known as c4rb0n, a cybersecurity enthusiast and a student at Kongu Engineering College. I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in cybersecurity. Check out my Github profile where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
   <hr>
   username: c4rb0n # general username
   github: c4rb0nX1 # github username
