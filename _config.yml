@@ -1,12 +1,13 @@
 # Site settings
 title: c4rb0n
-description: >- # site description
+description: > # site description
   A student who is fueled by his passion for cybersecurity.
 lang: en-US # default lang
 timezone: Asia/kolkata # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
+
 
 # Profile settings
 author:
