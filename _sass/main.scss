@@ -68,6 +68,12 @@ $on-widescreen: 1152px;
   text-align: center;
 }
 
+.cent{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
