@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Niranchan D <div class="code-loader"> <span>{</span><span>}</span> </div>
+  name: Niranchan D 
   bio: >- # tell to the world
     <div class="center-text">
     <br>Welcome!<br/> 
@@ -18,6 +18,7 @@ author:
     <div class="center-justify">
     I'm Niranchan, also known as c4rb0n, a cybersecurity enthusiast and a student at Kongu Engineering College. I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in cybersecurity. Check out my Github profile where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
     </div>
+    <div class="code-loader"> <span>{</span><span>}</span> </div>
   username: c4rb0n # general username
   github: c4rb0nX1 # github username
   twitter: to be added # twitter username
