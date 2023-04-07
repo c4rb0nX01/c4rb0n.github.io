@@ -10,10 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Niranchan D 
-    <div class="code-loader">
-    <span>{</span><span>}</span>
-    </div>
+  name: Niranchan D <div class="code-loader"> <span>{</span><span>}</span> </div>
   bio: >- # tell to the world
     <div class="center-text">
     <br>Welcome!<br/> 
